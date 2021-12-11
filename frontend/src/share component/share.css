@@ -1,0 +1,24 @@
+.header-bg{
+    width: 100%;
+    padding: 10px 7rem;
+    align-items: center;
+    background-image: linear-gradient(to right, #0cbabb, #0cbaba);
+}
+
+
+.link{
+    text-decoration: none;
+    color: rgb(33, 37, 41) !important;
+}
+
+.link:hover{
+    color: white !important;  
+}
+
+.link:focus{
+    color: white !important;  
+}
+
+.link:active{
+    color: white !important;  
+}

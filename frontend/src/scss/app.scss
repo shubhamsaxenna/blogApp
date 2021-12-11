@@ -1,0 +1,34 @@
+// @import "~bootstrap/scss/bootstrap";
+
+.bg-color{
+    background-color:  #0cbabb !important;    
+}
+
+.color{
+    color:  #0cbabb !important;
+}
+
+
+.fullwidth{
+    width: 100%;
+}
+
+.inputfields{
+    .MuiOutlinedInput-input{
+        padding: 5px 5px 10px !important;
+    }
+}
+
+.checkbox{
+    .MuiCheckbox-colorSecondary.Mui-checked{
+        color:  #0cbabb !important;
+    }
+    .PrivateSwitchBase-root-5 {
+        padding: 9px 9px 9px 0px !important;
+    }
+}
+
+.inputerror{
+    font-size: 0.7rem;
+    color: red;
+}
